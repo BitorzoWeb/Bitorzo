@@ -2,5 +2,5 @@
 
 
 Get it on Play Store Android : 
-(https://play.google.com/store/apps/details?id=etherio.wallet.com) 
+[Link](https://play.google.com/store/apps/details?id=etherio.wallet.com) 
 
